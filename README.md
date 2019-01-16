@@ -28,6 +28,8 @@ Making models more robust to tainted training data by minimizing the ability to 
 
 - [Excellent summary](https://medium.com/dropoutlabs/privacy-preserving-machine-learning-2018-a-year-in-review-b6345a95ae0f) of what happened last year in the world of privacy-preserving machine learning by [Dropout Labs](https://twitter.com/dropoutlabsai/status/1083432828229038082).
 
+- [Real World Crypto](https://rwc.iacr.org/2019/) happened this week, with (temporary?) [recordings](https://www.youtube.com/user/Regenegade) available on YouTube. Especially the talk on [Deploying MPC for Social Good](https://www.youtube.com/watch?v=W2thViwbEQQ&t=9496) has received significant attention, while the talk on [Foreshadow attack on Intel SGX](https://www.youtube.com/watch?v=4hq4yiVCopU&feature=youtu.be&t=2686) furthermore reminded us that enclaves are not perfect yet.
+
 ## 31 December 2018
 
 ### Papers

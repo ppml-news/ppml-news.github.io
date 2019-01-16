@@ -38,7 +38,7 @@ Making models more robust to tainted training data by minimizing the ability to 
 
 - [Low Latency Privacy Preserving Inference](https://arxiv.org/abs/1812.10659)
 
-### Libraries
+### News
 
 - Google AI team releases new [TensorFlow Privacy](https://github.com/tensorflow/privacy) library for training machine learning models with differential privacy for training data. [Via @NicolasPapernot](https://twitter.com/NicolasPapernot/status/1076195034209415173).
 
@@ -64,6 +64,8 @@ Optimising for privacy loss at early layers suggests pragmatic approach for prot
 
 - [NeurIPS workshop on Privacy Preserving Machine Learning](https://ppml-workshop.github.io/ppml/) happened this week with a very interesting [selection of papers](https://ppml-workshop.github.io/ppml/#papers).
 
+- Intel's [HE Transformer for nGraph](https://github.com/NervanaSystems/he-transformer) released as open source!
+
 ### Bonus
 
 - [Scaling Shared Model Governance via Model Splitting](https://arxiv.org/abs/1812.05979)
@@ -72,6 +74,10 @@ Optimising for privacy loss at early layers suggests pragmatic approach for prot
 ## 30 November 2018
 
 ### Papers
+
+- [nGraph-HE: A Graph Compiler for Deep Learning on Homomorphically Encrypted Data](https://arxiv.org/abs/1810.10121)
+
+- [CHET: Compiler and Runtime for Homomorphic Evaluation of Tensor Programs](https://arxiv.org/abs/1810.00845)
 
 - [Faster CryptoNets: Leveraging Sparsity for Real-World Encrypted Inference](https://arxiv.org/abs/1811.09953)
 

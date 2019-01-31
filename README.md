@@ -8,6 +8,10 @@
 - [Differentially Private Markov Chain Monte Carlo](https://arxiv.org/abs/1901.10275)  
 - [Improved Accounting for Differentially Private Learning](https://arxiv.org/abs/1901.09697)  
 
+### News
+
+- [Videos from CCS'18](https://www.youtube.com/playlist?list=PLn0nrSd4xjjbyUeai0oevMrT8_IwnBo4R) online, including [presentation of ABY3](https://www.youtube.com/watch?v=X8l8XMNyHDM&list=PLn0nrSd4xjjbyUeai0oevMrT8_IwnBo4R). [Via @lzcarl](https://twitter.com/lzcarl/status/1090729920957837312).
+
 ### Bonus
 
 - [Deep Learning to Evaluate Secure RSA Implementations](https://eprint.iacr.org/2019/054)

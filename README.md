@@ -10,6 +10,7 @@
 
 ### News
 
+- [Videos from Hacking Deep Learning 2](https://www.youtube.com/watch?v=wPCr7iUIFKs&list=PL8Vt-7cSFnw1dO9kc2_SQQRchzpQQDYXy) online, including talks on adversarily attacks and privacy. [Via @BIUCrypto](https://twitter.com/BIUCrypto/status/1091245397283086336).
 - [Videos from CCS'18](https://www.youtube.com/playlist?list=PLn0nrSd4xjjbyUeai0oevMrT8_IwnBo4R) online, including [presentation of ABY3](https://www.youtube.com/watch?v=X8l8XMNyHDM&list=PLn0nrSd4xjjbyUeai0oevMrT8_IwnBo4R). [Via @lzcarl](https://twitter.com/lzcarl/status/1090729920957837312).
 
 ### Bonus

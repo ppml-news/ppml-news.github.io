@@ -4,7 +4,8 @@
 
 ### Paper
 
-- [CodedPrivateML: A Fast and Privacy-Preserving Framework for Distributed Machine Learning](https://arxiv.org/abs/1902.00641)
+- [CodedPrivateML: A Fast and Privacy-Preserving Framework for Distributed Machine Learning](https://arxiv.org/abs/1902.00641)  
+Interesting solution for offloading/out-sourcing model training to set of workers while ensuring strong privacy guarantees; based on Lagrange coded computations.
 - [Towards Federated Learning at Scale: System Design](https://arxiv.org/abs/1902.01046)
 
 ### Bonus
@@ -16,8 +17,9 @@ Some of the greatest minds from cryptography join in on adversarial examples: "W
 
 ### Papers
 
-- [CaRENets: Compact and Resource-Efficient CNN for Homomorphic Inference on Encrypted Medical Images](https://arxiv.org/abs/1901.10074)  
 - [Privacy-preserving semi-parallel logistic regression training with Fully Homomorphic Encryption](https://eprint.iacr.org/2019/101)
+- [CaRENets: Compact and Resource-Efficient CNN for Homomorphic Inference on Encrypted Medical Images](https://arxiv.org/abs/1901.10074)  
+Secure predictions using FHE with careful packing.
 - [Differentially Private Markov Chain Monte Carlo](https://arxiv.org/abs/1901.10275)  
 - [Improved Accounting for Differentially Private Learning](https://arxiv.org/abs/1901.09697)  
 

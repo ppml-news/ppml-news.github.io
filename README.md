@@ -2,6 +2,11 @@
 
 ## 8 February 2019
 
+### Paper
+
+- [CodedPrivateML: A Fast and Privacy-Preserving Framework for Distributed Machine Learning](https://arxiv.org/abs/1902.00641)
+- [Towards Federated Learning at Scale: System Design](https://arxiv.org/abs/1902.01046)
+
 ### Bonus
 
 - [A Simple Explanation for the Existence of Adversarial Examples with Small Hamming Distance](https://arxiv.org/abs/1901.10861)  

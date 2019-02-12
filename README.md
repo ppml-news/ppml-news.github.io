@@ -1,5 +1,11 @@
 # Weekly Dig in Privacy-Preserving Machine Learning
 
+## 15 February 2019
+
+### Bonus
+
+- [A Marauder's Map of Security and Privacy in Machine Learning](https://www.youtube.com/watch?v=5GQUXmSg8XU), a lecture on security and privacy. By [Nicolas Papernot](https://twitter.com/NicolasPapernot/status/1095149613344907264).
+
 ## 8 February 2019
 
 ### Paper

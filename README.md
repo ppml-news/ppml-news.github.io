@@ -2,6 +2,12 @@
 
 ## 15 February 2019
 
+### Papers
+
+- [Secure Evaluation of Quantized Neural Networks](https://eprint.iacr.org/2019/131)
+- [TensorSCONE: A Secure TensorFlow Framework using Intel SGX](https://arxiv.org/abs/1902.04413)
+- [Achieving GWAS with Homomorphic Encryption](https://arxiv.org/abs/1902.04303)
+
 ### Bonus
 
 - [A Marauder's Map of Security and Privacy in Machine Learning](https://www.youtube.com/watch?v=5GQUXmSg8XU), a lecture on security and privacy. By [Nicolas Papernot](https://twitter.com/NicolasPapernot/status/1095149613344907264).

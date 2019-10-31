@@ -1,4 +1,4 @@
-# Weekly Dig in Privacy-Preserving Machine Learning
+# News in Privacy-Preserving Machine Learning
 
 ## 15 February 2019
 

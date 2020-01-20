@@ -1,29 +1,28 @@
 # News in Privacy-Preserving Machine Learning
 
-## 15 February 2019
+## January 2020
+
+### Papers
+
+- [Approximating Activation Functions](https://arxiv.org/abs/2001.06370)
+
+## February 2019
 
 ### Papers
 
 - [Secure Evaluation of Quantized Neural Networks](https://eprint.iacr.org/2019/131)
 - [TensorSCONE: A Secure TensorFlow Framework using Intel SGX](https://arxiv.org/abs/1902.04413)
 - [Achieving GWAS with Homomorphic Encryption](https://arxiv.org/abs/1902.04303)
-
-### Bonus
-
-- [A Marauder's Map of Security and Privacy in Machine Learning](https://www.youtube.com/watch?v=5GQUXmSg8XU), a lecture on security and privacy. By [Nicolas Papernot](https://twitter.com/NicolasPapernot/status/1095149613344907264).
-
-## 8 February 2019
-
-### Paper
-
 - [CodedPrivateML: A Fast and Privacy-Preserving Framework for Distributed Machine Learning](https://arxiv.org/abs/1902.00641)  
 Interesting solution for offloading/out-sourcing model training to set of workers while ensuring strong privacy guarantees; based on Lagrange coded computations.
 - [Towards Federated Learning at Scale: System Design](https://arxiv.org/abs/1902.01046)
 
 ### Bonus
 
+- [A Marauder's Map of Security and Privacy in Machine Learning](https://www.youtube.com/watch?v=5GQUXmSg8XU), a lecture on security and privacy. By [Nicolas Papernot](https://twitter.com/NicolasPapernot/status/1095149613344907264).
 - [A Simple Explanation for the Existence of Adversarial Examples with Small Hamming Distance](https://arxiv.org/abs/1901.10861)  
 Some of the greatest minds from cryptography join in on adversarial examples: "We develop a simple mathematical framework which enables us to think about this baffling phenomenon [and] explain why we should expect to find targeted adversarial examples in arbitrarily deep neural networks."
+
 
 ## 1 February 2019
 

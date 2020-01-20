@@ -24,7 +24,7 @@ Interesting solution for offloading/out-sourcing model training to set of worker
 Some of the greatest minds from cryptography join in on adversarial examples: "We develop a simple mathematical framework which enables us to think about this baffling phenomenon [and] explain why we should expect to find targeted adversarial examples in arbitrarily deep neural networks."
 
 
-## 1 February 2019
+## January 2019
 
 ### Papers
 
@@ -33,45 +33,25 @@ Some of the greatest minds from cryptography join in on adversarial examples: "W
 Secure predictions using FHE with careful packing.
 - [Differentially Private Markov Chain Monte Carlo](https://arxiv.org/abs/1901.10275)  
 - [Improved Accounting for Differentially Private Learning](https://arxiv.org/abs/1901.09697)  
-
-### News
-
-- [Videos from Hacking Deep Learning 2](https://www.youtube.com/watch?v=wPCr7iUIFKs&list=PL8Vt-7cSFnw1dO9kc2_SQQRchzpQQDYXy) online, including talks on adversarily attacks and privacy. [Via @BIUCrypto](https://twitter.com/BIUCrypto/status/1091245397283086336).
-- [Videos from CCS'18](https://www.youtube.com/playlist?list=PLn0nrSd4xjjbyUeai0oevMrT8_IwnBo4R) online, including [presentation of ABY3](https://www.youtube.com/watch?v=X8l8XMNyHDM&list=PLn0nrSd4xjjbyUeai0oevMrT8_IwnBo4R). [Via @lzcarl](https://twitter.com/lzcarl/status/1090729920957837312).
-
-### Bonus
-
-- [Deep Learning to Evaluate Secure RSA Implementations](https://eprint.iacr.org/2019/054)
-- [Turbospeedz: Double Your Online SPDZ! Improving SPDZ using Function Dependent Preprocessing](https://eprint.iacr.org/2019/080)
-
-## 18 January 2019
-
-### News
-
-- Simons Institute program on [Data Privacy: Foundations and Applications](https://twitter.com/ppml_news/status/1084778293428133889) kicked off this week with several workshops around differential privacy.
-
-
-## 11 January 2019
-
-### Papers
-
 - [Secure Computation for Machine Learning With SPDZ](https://arxiv.org/abs/1901.00329)  
 Looks at regression tasks using the general-purpose reference implementation and with active security.
-
 - [Secure Two-Party Feature Selection](https://arxiv.org/abs/1901.00832)  
 Privacy-preserving chi-squared test for binary feature selection from Paillier encryption.
-
 - [Contamination Attacks and Mitigation in Multi-Party Machine Learning](https://arxiv.org/abs/1901.02402)  
 Making models more robust to tainted training data by minimizing the ability to predict the providing parties.
 
 ### News
 
+- [Videos from Hacking Deep Learning 2](https://www.youtube.com/watch?v=wPCr7iUIFKs&list=PL8Vt-7cSFnw1dO9kc2_SQQRchzpQQDYXy) online, including talks on adversarily attacks and privacy. [Via @BIUCrypto](https://twitter.com/BIUCrypto/status/1091245397283086336).
+- [Videos from CCS'18](https://www.youtube.com/playlist?list=PLn0nrSd4xjjbyUeai0oevMrT8_IwnBo4R) online, including [presentation of ABY3](https://www.youtube.com/watch?v=X8l8XMNyHDM&list=PLn0nrSd4xjjbyUeai0oevMrT8_IwnBo4R). [Via @lzcarl](https://twitter.com/lzcarl/status/1090729920957837312).
+- Simons Institute program on [Data Privacy: Foundations and Applications](https://twitter.com/ppml_news/status/1084778293428133889) kicked off this week with several workshops around differential privacy.
 - [Program for SP'19](https://www.ieee-security.org/TC/SP2019/program-papers.html) is out with four accepted papers on differential privacy. [Via @IEEESSP](https://twitter.com/IEEESSP/status/1082680571833315330).
 
 ### Bonus
 
+- [Deep Learning to Evaluate Secure RSA Implementations](https://eprint.iacr.org/2019/054)
+- [Turbospeedz: Double Your Online SPDZ! Improving SPDZ using Function Dependent Preprocessing](https://eprint.iacr.org/2019/080)
 - [Excellent summary](https://medium.com/dropoutlabs/privacy-preserving-machine-learning-2018-a-year-in-review-b6345a95ae0f) of what happened last year in the world of privacy-preserving machine learning by [Dropout Labs](https://twitter.com/dropoutlabsai/status/1083432828229038082).
-
 - [Real World Crypto](https://rwc.iacr.org/2019/) happened this week, with (temporary?) [recordings](https://www.youtube.com/user/Regenegade) available on YouTube. Especially the talk on [Deploying MPC for Social Good](https://www.youtube.com/watch?v=W2thViwbEQQ&t=9496) has received significant attention, while the talk on [Foreshadow attack on Intel SGX](https://www.youtube.com/watch?v=4hq4yiVCopU&feature=youtu.be&t=2686) furthermore reminded us that enclaves are not perfect yet.
 
 ## 31 December 2018

@@ -1,5 +1,11 @@
 # News in Privacy-Preserving Machine Learning
 
+## February 2020
+
+### Papers
+
+- [Private Summation in the Multi-Message Shuffle Model](https://arxiv.org/abs/2002.00817)
+
 ## January 2020
 
 ### Papers
